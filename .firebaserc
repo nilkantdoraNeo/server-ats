@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "mimiotech-recruit"
+  },
+  "targets": {
+    "mimiotech-recruit": {
+      "hosting": {
+        "default": [
+          "dist/mimioRecruit/browser"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
